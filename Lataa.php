@@ -12,7 +12,7 @@
     <div class="navbar">
         <a href="Lataa.php">Lataa</a>
         <a href="Galleria.php">Galleria</a>
-        <a href="http://it.esedu.fi/~hietanen.veeti/Hietzu22_Kotisivu/index.html">Takaisin kotisivulle</a>
+        <a href="http://it.esedu.fi/~hietanen.veeti/index.php">Takaisin kotisivulle</a>
         <br>
     </div>
 
